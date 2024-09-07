@@ -9,16 +9,18 @@
   </a>
 </p>
 
+
 <p align="center">
   <strong><h2 align="center">My Technical Skills</h2></strong>
 </p>
+
 
 <p align="center">
   <strong><h3 align="center">Main Programming Languages</h3></strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,js" />
+    <img src="https://skillicons.dev/icons?i=cs,js" />
   </a>
 </p>
 
@@ -67,6 +69,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <strong><h2 align="center">Other</h2></strong>
 </p>
@@ -76,7 +79,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
 
@@ -85,6 +88,15 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,vim" />
+  </a>
+</p>
+
+<p align="center">
+  <strong><h3 align="center">Application Software</h3></strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=obsidian" />
   </a>
 </p>
